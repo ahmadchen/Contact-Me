@@ -10,7 +10,5 @@ Sample view for website.
 ---
 ### Mobile View
 
-![Mobile View](/images/screely-1527664971043.png)
-
 See [`license`](https://github.com/ahmadchen/Contact-Me/) for copyright info.
 Suggestion's Welcome :smile:
